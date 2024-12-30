@@ -14,7 +14,8 @@ ul {
 }
 
 .header,
-.footer {
+.footer,
+.sectionone {
   background-color: #1f2937;
   color: #f9faf8;
   display: flex;
