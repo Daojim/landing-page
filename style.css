@@ -5,7 +5,8 @@ body {
 
 .header {
   background-color: #1f2937;
-  color: white;
+  color: #f9faf8;
+  font-weight: 900;
   font-family: Roboto;
   display: flex;
   padding: 0;
