@@ -29,6 +29,21 @@ ul {
   display: flex;
 }
 
+.sectionone {
+  flex: 1;
+  justify-content: space-evenly;
+}
+
+.subsectionone {
+}
+
+.imageplaceholder {
+  display: flex;
+  background-color: grey;
+  align-items: center;
+  justify-content: center;
+}
+
 .header {
   font-family: Roboto;
   margin-top: auto;
