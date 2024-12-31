@@ -34,9 +34,15 @@ ul {
   justify-content: space-evenly;
 }
 
-.subsectionone {
+.sectionthree {
+  background-color: #e5e7eb;
 }
 
+q {
+  font-size: 36px;
+  font-style: italic;
+  quotes: none;
+}
 .imageplaceholder {
   display: flex;
   background-color: grey;
