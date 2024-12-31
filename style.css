@@ -3,6 +3,7 @@ body {
   flex-direction: column;
   margin: 0;
   min-height: 100vh;
+  font-family: "Roboto", serif;
 }
 
 ul {
@@ -39,19 +40,21 @@ ul {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 25px;
+  padding: 50px;
 }
 
 q {
   font-size: 36px;
-  font-style: italic;
   quotes: none;
   margin: auto;
   color: #1f2937;
+  font-weight: 300;
+  font-style: italic;
 }
 
 .quoter {
   margin-left: auto;
+  font-weight: bold;
 }
 
 .imageplaceholder {
@@ -62,7 +65,6 @@ q {
 }
 
 .header {
-  font-family: Roboto;
   margin-top: auto;
   justify-content: space-evenly;
 }
