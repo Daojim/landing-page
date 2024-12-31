@@ -39,6 +39,7 @@ ul {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding: 25px;
 }
 
 q {
@@ -46,6 +47,7 @@ q {
   font-style: italic;
   quotes: none;
   margin: auto;
+  color: #1f2937;
 }
 
 .quoter {
