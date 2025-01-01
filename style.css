@@ -129,3 +129,13 @@ q {
   height: 30px;
   width: 80px;
 }
+
+.lastsection {
+  background-color: #3882f6;
+  margin: 50px 100px;
+  padding: 10px 80px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  border-color: none;
+}
