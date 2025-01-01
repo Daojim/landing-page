@@ -30,8 +30,7 @@ a {
 }
 
 .sectiontwo,
-.sectionthree,
-.sectionfour {
+.sectionthree {
   display: flex;
   flex: 1;
 }
