@@ -88,3 +88,19 @@ q {
   height: 30px;
   width: 80px;
 }
+
+.sectionfour {
+  justify-content: center;
+  align-items: center;
+}
+
+.subsectionfour {
+  background-color: #3882f6;
+  color: white;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
