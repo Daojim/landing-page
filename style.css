@@ -119,3 +119,7 @@ q {
   align-items: center;
   background-color: #3882f6;
 }
+
+#bottomsignup {
+  border: 1px solid white;
+}
