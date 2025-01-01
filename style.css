@@ -109,8 +109,20 @@ q {
 }
 
 .subsectionfour {
-  background-color: #3882f6;
+  display: flex;
+  flex-direction: column;
+
   color: white;
+}
+
+#call {
+  margin: 0;
+  padding: 0;
+}
+
+#signupwebsite {
+  margin: 0;
+  padding: 0;
 }
 
 .bottom {
