@@ -44,6 +44,18 @@ ul {
   justify-content: space-between;
 }
 
+.subsectionone {
+  display: flex;
+  flex-direction: column;
+}
+
+.imageplaceholder {
+  display: flex;
+  background-color: grey;
+  align-items: center;
+  justify-content: center;
+}
+
 .sectiontwo {
   justify-content: center;
 }
@@ -72,13 +84,6 @@ q {
 .quoter {
   margin-left: auto;
   font-weight: bold;
-}
-
-.imageplaceholder {
-  display: flex;
-  background-color: grey;
-  align-items: center;
-  justify-content: center;
 }
 
 .header {
