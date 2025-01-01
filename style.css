@@ -23,8 +23,7 @@ a {
 .header,
 .sectionone,
 .sectiontwo,
-.sectionthree,
-.sectionfour {
+.sectionthree {
   padding-left: 15%;
   padding-right: 15%;
 }
@@ -129,33 +128,4 @@ q {
   border: none;
   height: 30px;
   width: 80px;
-}
-
-.sectionfour {
-  justify-content: center;
-  align-items: center;
-}
-
-#call {
-  margin: 0;
-  font-weight: bold;
-}
-
-#signupwebsite {
-  margin: 0;
-  font-size: small;
-}
-
-.bottom {
-  display: flex;
-  align-items: center;
-  background-color: #3882f6;
-  padding: 20px 100px;
-  margin: 50px 20px;
-  border-radius: 10px;
-  color: white;
-}
-
-#bottomsignup {
-  border: 1px solid white;
 }
