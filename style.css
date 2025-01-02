@@ -59,8 +59,9 @@ a {
 }
 
 .sectiontwo {
+  flex-direction: column;
   justify-content: center;
-  flex-wrap: wrap;
+  align-items: center;
 }
 
 .sectiontwo img {
