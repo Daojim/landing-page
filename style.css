@@ -139,3 +139,24 @@ q {
   border-radius: 5px;
   border-color: none;
 }
+
+.sign-item {
+  flex: 1;
+}
+
+.signs-text {
+  color: white;
+}
+
+.signs-text p {
+  margin: 5px 30px 30px 50px;
+}
+
+h3 {
+  padding: 0;
+  margin: 30px 0px 0px 50px;
+}
+
+.lastsection button {
+  border: 1px solid white;
+}
